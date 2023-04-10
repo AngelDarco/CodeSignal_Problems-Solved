@@ -1,0 +1,9 @@
+{
+    // fix code with eslint
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"],
+    // Wrap code 
+    "editor.wordWrap": "on"
+}
