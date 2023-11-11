@@ -1,7 +1,19 @@
 {
+  "name": "codesignals",
+  "version": "1.0.0",
+  "description": "Problems solved from CodeSignal",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon areSimilar.js",
+    "test": "jest --watch"
+  },
   "devDependencies": {
     "eslint": "^8.53.0",
+    "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.1",
+    "eslint-plugin-jest": "^27.6.0",
+    "jest": "^29.7.0",
     "nodemon": "^2.0.22",
     "prettier": "3.0.3"
   }
