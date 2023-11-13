@@ -5,7 +5,7 @@
   "type": "commonjs",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon areSimilar.js",
+    "dev": "nodemon",
     "test": "jest --watch"
   },
   "devDependencies": {
