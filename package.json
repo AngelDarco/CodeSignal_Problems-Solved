@@ -5,7 +5,7 @@
   "type": "commonjs",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon",
+    "dev": "node --watch",
     "test": "jest --watch"
   },
   "devDependencies": {
@@ -16,5 +16,8 @@
     "jest": "^29.7.0",
     "nodemon": "^2.0.22",
     "prettier": "3.0.3"
+  },
+  "prettier": {
+    "trailingComma": "none"
   }
 }
