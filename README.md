@@ -1,6 +1,8 @@
 # CodeSignal Problem Solving
-
 Welcome to my CodeSignal problem-solving repository! Here you'll find my solutions to various coding challenges from [CodeSignal](https://codesignal.com/) platform.
+With more than hundred challenges solved, till 09/2023
+
+<img src="https://github.com/AngelDarco/codesignal_challenges/assets/29819444/570752b2-1895-4617-9763-f9ebaa701310" alt="codesignal" width="600" height="450">
 
 ## About CodeSignal
 
